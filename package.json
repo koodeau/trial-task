@@ -17,11 +17,16 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "autoprefixer": "^10.4.7",
     "gatsby": "^4.13.0",
     "gatsby-plugin-image": "^2.13.0",
+    "gatsby-plugin-postcss": "^5.13.0",
     "gatsby-source-graphcms": "^2.8.0",
+    "luxon": "^2.3.2",
+    "postcss": "^8.4.13",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^3.0.24"
   },
   "devDependencies": {
     "@types/node": "^17.0.26",
