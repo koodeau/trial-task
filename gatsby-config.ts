@@ -12,6 +12,7 @@ const config: GatsbyConfig = {
       },
     },
     'gatsby-plugin-image',
+    'gatsby-plugin-postcss'
   ],
 }
 
